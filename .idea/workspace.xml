@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1e31d776-6d1d-40b8-a60f-7cda38fd11d6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go Application" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.15.5/libexec" />
+  <component name="ProjectId" id="1kVianDR3wsxElEoUGkrMkBaHlF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go Application" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/array/InsertingItems" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/lecture" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build leetcode/book">
+    <configuration name="go build generate.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="awesomeProject" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/easy/array/generate.go" />
+      <package value="leetcode" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build leetcode/book" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="awesomeProject" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/book/chapter3.go" />
+      <package value="leetcode/book" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build maxProfit.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="awesomeProject" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/easy/array/maxProfit.go" />
+      <package value="leetcode" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build missingNumber.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="awesomeProject" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/easy/array/missingNumber.go" />
+      <package value="leetcode" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build plusOnes.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="awesomeProject" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/easy/array/plusOnes.go" />
+      <package value="leetcode" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build leetcode/book" />
+        <item itemvalue="Go Build.go build maxProfit.go" />
+        <item itemvalue="Go Build.go build plusOnes.go" />
+        <item itemvalue="Go Build.go build missingNumber.go" />
+        <item itemvalue="Go Build.go build generate.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e31d776-6d1d-40b8-a60f-7cda38fd11d6" name="Default Changelist" comment="" />
+      <created>1605792226208</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605792226208</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1752" y="-668" width="490" height="290" key="#Vim_Emulation" timestamp="1606128799352">
+      <screen x="885" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="1752" y="-668" width="490" height="290" key="#Vim_Emulation/885.-1080.1920.1080/0.0.1440.900/-1035.-1080.1920.1080@885.-1080.1920.1080" timestamp="1606128799352" />
+    <state x="1309" y="-878" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606232746830">
+      <screen x="885" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="1309" y="-878" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900/-1035.-1080.1920.1080/885.-1080.1920.1080@885.-1080.1920.1080" timestamp="1606232746830" />
+    <state x="1485" y="-869" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1605800044342">
+      <screen x="885" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="1485" y="-869" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.23.1440.877/-1035.-1057.1920.1057/885.-1080.1920.1080@885.-1080.1920.1080" timestamp="1605800044342" />
+    <state x="1607" y="-663" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1605797915051">
+      <screen x="885" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="1607" y="-663" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1440.900/-1035.-1080.1920.1080/885.-1080.1920.1080@885.-1080.1920.1080" timestamp="1605797915051" />
+    <state width="444" height="466" key="DebuggerActiveHint" timestamp="1606228045833">
+      <screen x="885" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="444" height="466" key="DebuggerActiveHint/0.0.1440.900/-1035.-1080.1920.1080/885.-1080.1920.1080@885.-1080.1920.1080" timestamp="1606228045833" />
+    <state x="1510" y="-755" key="EditFileWatcherDialog" timestamp="1605797297364">
+      <screen x="885" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="1510" y="-755" key="EditFileWatcherDialog/0.0.1440.900/-1035.-1080.1920.1080/885.-1080.1920.1080@885.-1080.1920.1080" timestamp="1605797297364" />
+    <state width="1878" height="429" key="GridCell.Tab.0.bottom" timestamp="1606659464943">
+      <screen x="885" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="343" key="GridCell.Tab.0.bottom/0.0.1440.900/-1035.-1080.1920.1080/885.-1080.1920.1080@885.-1080.1920.1080" timestamp="1606405582389" />
+    <state width="1398" height="348" key="GridCell.Tab.0.bottom/0.0.1440.900/-241.-1057.1920.1057@0.0.1440.900" timestamp="1606354813368" />
+    <state width="1398" height="343" key="GridCell.Tab.0.bottom/0.0.1440.900/-241.-1080.1920.1080@0.0.1440.900" timestamp="1606439869675" />
+    <state width="1878" height="348" key="GridCell.Tab.0.bottom/0.23.1440.877/-1035.-1057.1920.1057/885.-1080.1920.1080@885.-1080.1920.1080" timestamp="1606228578904" />
+    <state width="1878" height="429" key="GridCell.Tab.0.bottom/885.-1080.1920.1080/0.0.1440.900/-1035.-1080.1920.1080@885.-1080.1920.1080" timestamp="1606659464943" />
+    <state width="1878" height="348" key="GridCell.Tab.0.bottom/885.-1080.1920.1080/0.23.1440.877/-1035.-1057.1920.1057@885.-1080.1920.1080" timestamp="1606319267158" />
+    <state width="1878" height="429" key="GridCell.Tab.0.center" timestamp="1606659464940">
+      <screen x="885" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="343" key="GridCell.Tab.0.center/0.0.1440.900/-1035.-1080.1920.1080/885.-1080.1920.1080@885.-1080.1920.1080" timestamp="1606405582387" />
+    <state width="1398" height="348" key="GridCell.Tab.0.center/0.0.1440.900/-241.-1057.1920.1057@0.0.1440.900" timestamp="1606354813367" />
+    <state width="1398" height="343" key="GridCell.Tab.0.center/0.0.1440.900/-241.-1080.1920.1080@0.0.1440.900" timestamp="1606439869673" />
+    <state width="1878" height="348" key="GridCell.Tab.0.center/0.23.1440.877/-1035.-1057.1920.1057/885.-1080.1920.1080@885.-1080.1920.1080" timestamp="1606228578902" />
+    <state width="1878" height="429" key="GridCell.Tab.0.center/885.-1080.1920.1080/0.0.1440.900/-1035.-1080.1920.1080@885.-1080.1920.1080" timestamp="1606659464940" />
+    <state width="1878" height="348" key="GridCell.Tab.0.center/885.-1080.1920.1080/0.23.1440.877/-1035.-1057.1920.1057@885.-1080.1920.1080" timestamp="1606319267156" />
+    <state width="1878" height="429" key="GridCell.Tab.0.left" timestamp="1606659464939">
+      <screen x="885" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="343" key="GridCell.Tab.0.left/0.0.1440.900/-1035.-1080.1920.1080/885.-1080.1920.1080@885.-1080.1920.1080" timestamp="1606405582386" />
+    <state width="1398" height="348" key="GridCell.Tab.0.left/0.0.1440.900/-241.-1057.1920.1057@0.0.1440.900" timestamp="1606354813367" />
+    <state width="1398" height="343" key="GridCell.Tab.0.left/0.0.1440.900/-241.-1080.1920.1080@0.0.1440.900" timestamp="1606439869672" />
+    <state width="1878" height="348" key="GridCell.Tab.0.left/0.23.1440.877/-1035.-1057.1920.1057/885.-1080.1920.1080@885.-1080.1920.1080" timestamp="1606228578901" />
+    <state width="1878" height="429" key="GridCell.Tab.0.left/885.-1080.1920.1080/0.0.1440.900/-1035.-1080.1920.1080@885.-1080.1920.1080" timestamp="1606659464939" />
+    <state width="1878" height="348" key="GridCell.Tab.0.left/885.-1080.1920.1080/0.23.1440.877/-1035.-1057.1920.1057@885.-1080.1920.1080" timestamp="1606319267155" />
+    <state width="1878" height="429" key="GridCell.Tab.0.right" timestamp="1606659464942">
+      <screen x="885" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="343" key="GridCell.Tab.0.right/0.0.1440.900/-1035.-1080.1920.1080/885.-1080.1920.1080@885.-1080.1920.1080" timestamp="1606405582388" />
+    <state width="1398" height="348" key="GridCell.Tab.0.right/0.0.1440.900/-241.-1057.1920.1057@0.0.1440.900" timestamp="1606354813368" />
+    <state width="1398" height="343" key="GridCell.Tab.0.right/0.0.1440.900/-241.-1080.1920.1080@0.0.1440.900" timestamp="1606439869674" />
+    <state width="1878" height="348" key="GridCell.Tab.0.right/0.23.1440.877/-1035.-1057.1920.1057/885.-1080.1920.1080@885.-1080.1920.1080" timestamp="1606228578903" />
+    <state width="1878" height="429" key="GridCell.Tab.0.right/885.-1080.1920.1080/0.0.1440.900/-1035.-1080.1920.1080@885.-1080.1920.1080" timestamp="1606659464942" />
+    <state width="1878" height="348" key="GridCell.Tab.0.right/885.-1080.1920.1080/0.23.1440.877/-1035.-1057.1920.1057@885.-1080.1920.1080" timestamp="1606319267157" />
+    <state width="1398" height="343" key="GridCell.Tab.1.bottom" timestamp="1606439869677">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1878" height="343" key="GridCell.Tab.1.bottom/0.0.1440.900/-1035.-1080.1920.1080/885.-1080.1920.1080@885.-1080.1920.1080" timestamp="1606405582800" />
+    <state width="1878" height="343" key="GridCell.Tab.1.bottom/0.0.1440.900/-241.-1057.1920.1057@0.0.1440.900" timestamp="1606354813348" />
+    <state width="1398" height="343" key="GridCell.Tab.1.bottom/0.0.1440.900/-241.-1080.1920.1080@0.0.1440.900" timestamp="1606439869677" />
+    <state width="1878" height="343" key="GridCell.Tab.1.bottom/0.23.1440.877/-1035.-1057.1920.1057/885.-1080.1920.1080@885.-1080.1920.1080" timestamp="1606225076738" />
+    <state width="1878" height="343" key="GridCell.Tab.1.bottom/885.-1080.1920.1080/0.0.1440.900/-1035.-1080.1920.1080@885.-1080.1920.1080" timestamp="1606348296428" />
+    <state width="1398" height="343" key="GridCell.Tab.1.center" timestamp="1606439869676">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1878" height="343" key="GridCell.Tab.1.center/0.0.1440.900/-1035.-1080.1920.1080/885.-1080.1920.1080@885.-1080.1920.1080" timestamp="1606405582798" />
+    <state width="1878" height="343" key="GridCell.Tab.1.center/0.0.1440.900/-241.-1057.1920.1057@0.0.1440.900" timestamp="1606354813347" />
+    <state width="1398" height="343" key="GridCell.Tab.1.center/0.0.1440.900/-241.-1080.1920.1080@0.0.1440.900" timestamp="1606439869676" />
+    <state width="1878" height="343" key="GridCell.Tab.1.center/0.23.1440.877/-1035.-1057.1920.1057/885.-1080.1920.1080@885.-1080.1920.1080" timestamp="1606225076737" />
+    <state width="1878" height="343" key="GridCell.Tab.1.center/885.-1080.1920.1080/0.0.1440.900/-1035.-1080.1920.1080@885.-1080.1920.1080" timestamp="1606348296427" />
+    <state width="1398" height="343" key="GridCell.Tab.1.left" timestamp="1606439869675">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1878" height="343" key="GridCell.Tab.1.left/0.0.1440.900/-1035.-1080.1920.1080/885.-1080.1920.1080@885.-1080.1920.1080" timestamp="1606405582797" />
+    <state width="1878" height="343" key="GridCell.Tab.1.left/0.0.1440.900/-241.-1057.1920.1057@0.0.1440.900" timestamp="1606354813346" />
+    <state width="1398" height="343" key="GridCell.Tab.1.left/0.0.1440.900/-241.-1080.1920.1080@0.0.1440.900" timestamp="1606439869675" />
+    <state width="1878" height="343" key="GridCell.Tab.1.left/0.23.1440.877/-1035.-1057.1920.1057/885.-1080.1920.1080@885.-1080.1920.1080" timestamp="1606225076736" />
+    <state width="1878" height="343" key="GridCell.Tab.1.left/885.-1080.1920.1080/0.0.1440.900/-1035.-1080.1920.1080@885.-1080.1920.1080" timestamp="1606348296426" />
+    <state width="1398" height="343" key="GridCell.Tab.1.right" timestamp="1606439869676">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1878" height="343" key="GridCell.Tab.1.right/0.0.1440.900/-1035.-1080.1920.1080/885.-1080.1920.1080@885.-1080.1920.1080" timestamp="1606405582799" />
+    <state width="1878" height="343" key="GridCell.Tab.1.right/0.0.1440.900/-241.-1057.1920.1057@0.0.1440.900" timestamp="1606354813348" />
+    <state width="1398" height="343" key="GridCell.Tab.1.right/0.0.1440.900/-241.-1080.1920.1080@0.0.1440.900" timestamp="1606439869676" />
+    <state width="1878" height="343" key="GridCell.Tab.1.right/0.23.1440.877/-1035.-1057.1920.1057/885.-1080.1920.1080@885.-1080.1920.1080" timestamp="1606225076737" />
+    <state width="1878" height="343" key="GridCell.Tab.1.right/885.-1080.1920.1080/0.0.1440.900/-1035.-1080.1920.1080@885.-1080.1920.1080" timestamp="1606348296427" />
+    <state x="1354" y="-901" key="SettingsEditor" timestamp="1605800838600">
+      <screen x="885" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="1354" y="-901" key="SettingsEditor/0.0.1440.900/-1035.-1080.1920.1080/885.-1080.1920.1080@885.-1080.1920.1080" timestamp="1605800838600" />
+    <state x="1552" y="-951" width="586" height="822" key="find.popup" timestamp="1606141182145">
+      <screen x="885" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="1552" y="-951" width="586" height="822" key="find.popup/0.0.1440.900/-1035.-1080.1920.1080/885.-1080.1920.1080@885.-1080.1920.1080" timestamp="1605797622709" />
+    <state x="1552" y="-951" width="586" height="822" key="find.popup/885.-1080.1920.1080/0.0.1440.900/-1035.-1080.1920.1080@885.-1080.1920.1080" timestamp="1606141182145" />
+    <state x="1510" y="-839" width="670" height="676" key="search.everywhere.popup" timestamp="1606560935574">
+      <screen x="885" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="1510" y="-839" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/-1035.-1080.1920.1080/885.-1080.1920.1080@885.-1080.1920.1080" timestamp="1606560935574" />
+    <state x="1510" y="-839" width="670" height="676" key="search.everywhere.popup/885.-1080.1920.1080/0.0.1440.900/-1035.-1080.1920.1080@885.-1080.1920.1080" timestamp="1606319824622" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/lecture/array/array.go</url>
+          <line>5</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/lecture/array/InsertingItems/search.go</url>
+          <line>7</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/easy/array/majorityElement.go</url>
+          <line>10</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/easy/array/missingNumber.go</url>
+          <line>17</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/easy/array/maxProfit.go</url>
+          <line>10</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/easy/array/missingNumber.go</url>
+          <line>23</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="DlvErrorBreakpoint" />
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
