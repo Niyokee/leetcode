@@ -20,6 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1e31d776-6d1d-40b8-a60f-7cda38fd11d6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/169-majority-element.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/206-reverse-linked-list.go" beforeDir="false" afterPath="$PROJECT_DIR$/206-reverse-linked-list.go" afterDir="false" />
     </list>
