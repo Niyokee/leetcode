@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e31d776-6d1d-40b8-a60f-7cda38fd11d6" name="Default Changelist" comment="" />
+    <list default="true" id="1e31d776-6d1d-40b8-a60f-7cda38fd11d6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/206-reverse-linked-list.go" beforeDir="false" afterPath="$PROJECT_DIR$/206-reverse-linked-list.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +38,12 @@
   <component name="GOROOT" path="/usr/local/Cellar/go/1.15.5/libexec" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1kVianDR3wsxElEoUGkrMkBaHlF" />
   <component name="ProjectViewState">
@@ -250,10 +259,11 @@
     </state>
     <state x="1552" y="-951" width="586" height="822" key="find.popup/0.0.1440.900/-1035.-1080.1920.1080/885.-1080.1920.1080@885.-1080.1920.1080" timestamp="1605797622709" />
     <state x="1552" y="-951" width="586" height="822" key="find.popup/885.-1080.1920.1080/0.0.1440.900/-1035.-1080.1920.1080@885.-1080.1920.1080" timestamp="1606141182145" />
-    <state x="1510" y="-839" width="670" height="676" key="search.everywhere.popup" timestamp="1606560935574">
-      <screen x="885" y="-1080" width="1920" height="1080" />
+    <state x="1510" y="-821" width="670" height="662" key="search.everywhere.popup" timestamp="1608905120570">
+      <screen x="885" y="-1057" width="1920" height="1057" />
     </state>
     <state x="1510" y="-839" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/-1035.-1080.1920.1080/885.-1080.1920.1080@885.-1080.1920.1080" timestamp="1606560935574" />
+    <state x="1510" y="-821" width="670" height="662" key="search.everywhere.popup/885.-1057.1920.1057/0.23.1440.877/-1035.-1057.1920.1057@885.-1057.1920.1057" timestamp="1608905120570" />
     <state x="1510" y="-839" width="670" height="676" key="search.everywhere.popup/885.-1080.1920.1080/0.0.1440.900/-1035.-1080.1920.1080@885.-1080.1920.1080" timestamp="1606319824622" />
   </component>
   <component name="XDebuggerManager">
