@@ -19,11 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e31d776-6d1d-40b8-a60f-7cda38fd11d6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/169-majority-element.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/206-reverse-linked-list.go" beforeDir="false" afterPath="$PROJECT_DIR$/206-reverse-linked-list.go" afterDir="false" />
-    </list>
+    <list default="true" id="1e31d776-6d1d-40b8-a60f-7cda38fd11d6" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,6 +43,9 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1kVianDR3wsxElEoUGkrMkBaHlF" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -68,12 +67,15 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/array/InsertingItems" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/" />
+      <recent name="$PROJECT_DIR$/122-best-time-to-buy-and-sell-stock-2" />
+      <recent name="$PROJECT_DIR$/283-move-zeros" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/lecture" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/array/InsertingItems" />
     </key>
   </component>
   <component name="RunManager" selected="Go Build.go build leetcode/book">
@@ -179,6 +181,10 @@
       <screen x="885" y="-1080" width="1920" height="1080" />
     </state>
     <state width="444" height="466" key="DebuggerActiveHint/0.0.1440.900/-1035.-1080.1920.1080/885.-1080.1920.1080@885.-1080.1920.1080" timestamp="1606228045833" />
+    <state x="985" y="-980" width="1720" height="880" key="DiffContextDialog" timestamp="1609035891908">
+      <screen x="885" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="985" y="-980" width="1720" height="880" key="DiffContextDialog/885.-1080.1920.1080/0.0.1440.900/-1035.-1080.1920.1080@885.-1080.1920.1080" timestamp="1609035891908" />
     <state x="1510" y="-755" key="EditFileWatcherDialog" timestamp="1605797297364">
       <screen x="885" y="-1080" width="1920" height="1080" />
     </state>
@@ -260,12 +266,12 @@
     </state>
     <state x="1552" y="-951" width="586" height="822" key="find.popup/0.0.1440.900/-1035.-1080.1920.1080/885.-1080.1920.1080@885.-1080.1920.1080" timestamp="1605797622709" />
     <state x="1552" y="-951" width="586" height="822" key="find.popup/885.-1080.1920.1080/0.0.1440.900/-1035.-1080.1920.1080@885.-1080.1920.1080" timestamp="1606141182145" />
-    <state x="1510" y="-821" width="670" height="662" key="search.everywhere.popup" timestamp="1608905120570">
-      <screen x="885" y="-1057" width="1920" height="1057" />
+    <state x="1510" y="-839" width="670" height="676" key="search.everywhere.popup" timestamp="1608990087954">
+      <screen x="885" y="-1080" width="1920" height="1080" />
     </state>
     <state x="1510" y="-839" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/-1035.-1080.1920.1080/885.-1080.1920.1080@885.-1080.1920.1080" timestamp="1606560935574" />
     <state x="1510" y="-821" width="670" height="662" key="search.everywhere.popup/885.-1057.1920.1057/0.23.1440.877/-1035.-1057.1920.1057@885.-1057.1920.1057" timestamp="1608905120570" />
-    <state x="1510" y="-839" width="670" height="676" key="search.everywhere.popup/885.-1080.1920.1080/0.0.1440.900/-1035.-1080.1920.1080@885.-1080.1920.1080" timestamp="1606319824622" />
+    <state x="1510" y="-839" width="670" height="676" key="search.everywhere.popup/885.-1080.1920.1080/0.0.1440.900/-1035.-1080.1920.1080@885.-1080.1920.1080" timestamp="1608990087954" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
