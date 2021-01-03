@@ -18,3 +18,34 @@ func twoSum(nums []int, target int) []int {
 	}
 	return []int{}
 }
+
+/*
+find second index more efficiently to put key and value to hash map
+Time: O(n)
+Space: O(n)
+*/
+func twoSum2(nums []int, target int) []int {
+	m := make(map[int]int)
+	for i, j := range nums {
+		m[j] = i
+	}
+	for i, _ := range nums {
+		t := target - nums[i]
+		if v, ok := m[t]; ok && v != i {
+			return []int{i, v}
+		}
+	}
+	return []int{}
+}
+
+func twoSum3(nums []int, target int) []int {
+	m := make(map[int]int)
+	for i, j := range nums {
+		t := target - nums[i]
+		if v, ok := m[t]; ok && v != i {
+			return []int{i, v}
+		}
+		m[j] = i
+	}
+	return []int{}
+}
